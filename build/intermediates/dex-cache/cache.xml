@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\androidMagicProject\RealTimeChat\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\androidMagicProject\RealTimeChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_0a0c8c45e1a6251c3c46cf17bab7797ad7c2a0cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\androidMagicProject\RealTimeChat\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\androidMagicProject\RealTimeChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f2b2734fc0c42444f9ec40792ebd10b421137f41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sahip\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\androidMagicProject\RealTimeChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_b1a9a44a78dca46bab29ab15ddaa748dd03d80c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\androidMagicProject\RealTimeChat\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\androidMagicProject\RealTimeChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_aec3919134b50d30cbc642ef47c2fa047da0b873\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\androidMagicProject\RealTimeChat\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bdb9e77fe535dca796fdffd4933690018a9b5bd6">
+        <dex dex="C:\androidMagicProject\RealTimeChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b65df8b51dcd8ee001f49f8d0976d995dcfa94ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\androidMagicProject\RealTimeChat\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\androidMagicProject\RealTimeChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_bb713a00f5ac7f22a257d699cb7c5ebe87abe282\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\androidMagicProject\RealTimeChat\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\androidMagicProject\RealTimeChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_73e0e9a32399c34e169b8b7716ae596d0cddbae2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\androidMagicProject\RealTimeChat\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3d081c523e0a9312c696c9c575a144a943d94d3a">
+        <dex dex="C:\androidMagicProject\RealTimeChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3278da0d6b958b01c61cc29e2199c56ebd49e7b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sahip\.gradle\caches\modules-2\files-2.1\org.java-websocket\Java-WebSocket\1.3.0\db2658f013fb163de4a99274c2eb9e17efe535d2\Java-WebSocket-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="C:\androidMagicProject\RealTimeChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\Java-WebSocket-1.3.0_71a485a8c58cf481e28fde7c4a1d1da0d9dee43d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\androidMagicProject\RealTimeChat\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\androidMagicProject\RealTimeChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_a670532ca54a1380c37e163531ce15c6ca551596\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\androidMagicProject\RealTimeChat\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\androidMagicProject\RealTimeChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_63c1b7a1d26d4e8d6b1261f1c87d9385ae824ff8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\androidMagicProject\RealTimeChat\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\androidMagicProject\RealTimeChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_d89dcbc5f09c4f61915e59ef0cb2834591588ff4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\androidMagicProject\RealTimeChat\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\androidMagicProject\RealTimeChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a8b1139891bd2ba35c4d12f586ca88835e1cc54d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\androidMagicProject\RealTimeChat\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\androidMagicProject\RealTimeChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_a347ca85813dbfb77acac6129ec5d2e756f41730\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\androidMagicProject\RealTimeChat\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\androidMagicProject\RealTimeChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_2b990e9f83bfe2758660ddcea1ab37cc57e7cf3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sahip\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\socket.io-client\0.3.0\8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9\socket.io-client-0.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9">
+        <dex dex="C:\androidMagicProject\RealTimeChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\socket.io-client-0.3.0_1dbaea1122dcdb3ff11649b2815a4de015a0792d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\androidMagicProject\RealTimeChat\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\androidMagicProject\RealTimeChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_735279fc553e1ea8b61d009e4ef2b75ac31f92d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sahip\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\engine.io-client\0.3.1\3ca9d0d53a27ecb88538ed874be417cfa827db5d\engine.io-client-0.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3ca9d0d53a27ecb88538ed874be417cfa827db5d">
+        <dex dex="C:\androidMagicProject\RealTimeChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\engine.io-client-0.3.1_7f4da3ec5b44f4857beb7e62030ba8bd7fcfff28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\androidMagicProject\RealTimeChat\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\androidMagicProject\RealTimeChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_768823731c872d1f1c8a59a152b6646b8226567f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\androidMagicProject\RealTimeChat\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\androidMagicProject\RealTimeChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_c4a7d2545c270809e290a2169b422faeb472c66f\classes.dex" />
+    </item>
+
+</items>
